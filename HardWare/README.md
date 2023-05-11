@@ -1,16 +1,1 @@
-## 多轴飞行器清单
 
-|     物品      |               型号                |                             链接                             |                             图片                             | 数量 |
-| :-----------: | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-|     飞控      |        Pixhawk4 mini 带GPS        | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.34.40901b11VkIbVK&id=629627270852&ns=1&abbucket=1#detail) |     <img src="img\飞控.png" alt="图片" style="zoom:50%;" />      |  1   |
-|     机架      |              QAV250               | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.73.27f67d44bEk7PU&id=520738516076&ns=1&abbucket=17#detail) |     <img src="img\机架.png" alt="图片" style="zoom:50%;" />      |  1   |
-|     电调      |            银燕电调45A            | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.21.5ce25ca5inz626&id=652264033077&ns=1&abbucket=1#detail) |     <img src="img\电调.png" alt="图片" style="zoom:50%;" />      |  4   |
-|   无刷电机    |            2306-kv2400            | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.17.57334f66nUttmp&id=650194038186&ns=1&abbucket=1#detail) |   <img src="img\无刷电机.png" alt="图片" style="zoom:50%;" />    |  4   |
-|   深度相机    |       Intel RealSense D435        | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.16.55431ba45R7OJZ&id=559810621351&ns=1&abbucket=1#detail) |     <img src="img\相机.png" alt="图片" style="zoom:50%;" />      |  1   |
-|   机载电脑    |      Intel猛虎峡谷i5薄板NUC       | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.21.180c2040BH24Xz&id=670443660562&ns=1&abbucket=1#detail) |      <img src="img\NUC.png" alt="图片" style="zoom:50%;" />      |  1   |
-| 遥控器+接收机 | 乐迪 AT9S PRO + 乐迪 R12DSM接收机 | [link](https://item.taobao.com/item.htm?id=649024226672&ali_refid=a3_430620_1006:1345570065:N:f3WTQd6GgGdHOA7tU%2FZL1UqW8622d6k4:c33099678a2614d7041d45d42dbab438&ali_trackid=1_c33099678a2614d7041d45d42dbab438&spm=a230r.1.14.6#detail) |  <img src="img\遥控和接受.png" alt="图片" style="zoom:50%;" />   |  1   |
-|     电池      |        格氏电池 4s 2300maH        | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.58.611a142d7MkJn9&id=583311920871&ns=1&abbucket=1#detail) |     <img src="img\电池.png" alt="图片" style="zoom:50%;" />      |  2   |
-|  5V稳压模块   |            亿佰特DC-DC            | [link](
-https://detail.tmall.com/item.htm?abbucket=1&id=622709738674&ns=1&skuId=4399217740639&spm=a230r.1.14.142.cb147f21CogTl0) | <img src="img\DC-DC5v降压模块.png" alt="图片" style="zoom:50%;" /> |  1   |
-|     桨叶      |               乾丰                | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.16.62b31b8b405xB8&id=627007813072&ns=1&abbucket=1#detail) |     <img src="img\桨叶.png" alt="图片" style="zoom:50%;" />      |  4   |
-|     BB响      |               None                | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.1.18411854hZjBhO&id=526389181596&ns=1&abbucket=1#detail) |     <img src="img\BB响.png" alt="图片" style="zoom:50%;" />      |  1   |
