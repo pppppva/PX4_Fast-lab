@@ -1,12 +1,8 @@
----
-typora-root-url: img
----
-
 ## 多轴飞行器清单
 
 |     物品      |               型号                |                             链接                             |                             图片                             | 数量 |
 | :-----------: | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-|     飞控      |        Pixhawk4 mini 带GPS        | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.34.40901b11VkIbVK&id=629627270852&ns=1&abbucket=1#detail) |     <img src="飞控.png" alt="图片" style="zoom:50%;" />      |  1   |
+|     飞控      |        Pixhawk4 mini 带GPS        | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.34.40901b11VkIbVK&id=629627270852&ns=1&abbucket=1#detail) |     <img src="img\飞控.png" alt="图片" style="zoom:50%;" />      |  1   |
 |     机架      |              QAV250               | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.73.27f67d44bEk7PU&id=520738516076&ns=1&abbucket=17#detail) |     <img src="机架.png" alt="图片" style="zoom:50%;" />      |  1   |
 |     电调      |            银燕电调45A            | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.21.5ce25ca5inz626&id=652264033077&ns=1&abbucket=1#detail) |     <img src="电调.png" alt="图片" style="zoom:50%;" />      |  4   |
 |   无刷电机    |            2306-kv2400            | [link](https://item.taobao.com/item.htm?spm=a230r.1.14.17.57334f66nUttmp&id=650194038186&ns=1&abbucket=1#detail) |   <img src="无刷电机.png" alt="图片" style="zoom:50%;" />    |  4   |
